@@ -1,0 +1,9 @@
+public class Hello{
+         Public static void main(String[] args)
+         {
+                      System.out.println("Hi Sun");
+                      System.out.println("Hi Moon");
+                      System.out.println("Hi Mercury");
+                      System.out.println("Hi Earth");
+          }
+                    }

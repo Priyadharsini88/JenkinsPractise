@@ -6,6 +6,6 @@ public class Hello{
                       System.out.println("Hi Mercury");
                       System.out.println("Hi Earth");
                       System.out.println("Hi Venus");
-                      //System.out.println("Hi Mars");
+                      
           }
                     }
